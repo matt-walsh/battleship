@@ -1,0 +1,22 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "Recreation of the game Battleship",
+  "main": "battleship.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt-walsh/battleship.git"
+  },
+  "author": "Matt Walsh",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/matt-walsh/battleship/issues"
+  },
+  "homepage": "https://github.com/matt-walsh/battleship#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
